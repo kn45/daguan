@@ -12,7 +12,7 @@ data_train=data_train/data_train.tsv
 data_valid=data_train/data_valid.tsv
 data_test=data_test/data_test.tsv
 
-test_ratio=0.01
+test_ratio=0.03
 valid_ratio=0.01
 
 
